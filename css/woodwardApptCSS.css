@@ -1,0 +1,12 @@
+ #s-lc-app-s1 h2:first-child {
+
+visibility:hidden;
+
+ }
+
+  #s-lc-app-s1 h2:first-child:before {
+visibility:visible;
+
+content:'1. Select a Librarian';
+
+ }
