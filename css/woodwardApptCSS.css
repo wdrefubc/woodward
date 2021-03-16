@@ -1,4 +1,8 @@
- #s-lc-app-s1 h2:first-child {
+.test {
+  color: blue;
+}
+
+#s-lc-app-s1 h2:first-child {
 
 visibility:hidden;
 
